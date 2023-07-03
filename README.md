@@ -35,7 +35,7 @@ Karena saya merasakan perlu dokumentasi dari ilmu yang sudah saya dapatkan, sehi
 
 <!-- See Documentation "Github Readme Status" https://github.com/anuraghazra/github-readme-stats -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=setiawanroni120&count_private=true&show_icons=true&theme=transparent"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiawanroni120&layout=compact&hide_progress=true"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=setiawanroni120&count_private=true&show_icons=true&theme=transparent&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiawanroni120&layout=compact&hide_progress=true&hide_border=true"/> |
 | ------------- | ------------- |
 
 ### Site E-Learning
